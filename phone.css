@@ -35,7 +35,7 @@ li{
 }
 .intro{
     
-    height: 500px;
+    height: 650px;
     display: flex
     ;
     
@@ -129,7 +129,7 @@ h2{
 .box{
     display: flex;
     margin: 20px;
-    height: 200px;
+    height: 270px;
 }
 .a{
     margin: 30px;
