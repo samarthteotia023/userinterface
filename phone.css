@@ -107,8 +107,8 @@ background: #FF6464;
 border-radius: 2px;
 }
 .recent{
-    display: flex;
-    height: 340px;
+     display: block;
+    height: 1260px;
     
     align-items: center;
     justify-content: center;
@@ -122,16 +122,17 @@ h2{
     font-size:30px;
 }
 .post{
-    margin: 20px;
-    padding: 20px;
-    width: 498px;
-    height: 235px;
+     margin: 100px;
+    margin-left: 120px;
+    padding: 80px;
+    width: 728px;
+    height: 385px;
     background-color: white;
 }
 .head{
     display: flex;
     align-items: center;
-    margin-left: 82px;
+    margin-left: 482px;
 }
 .box{
     display: flex;
