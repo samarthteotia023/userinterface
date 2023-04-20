@@ -51,15 +51,22 @@ li{
 
 }
 h1{
-    font-size: 50px;
-    width: 506px;
-    height: 175px;
+   width: 506px;
+    height: 185px;
+    font-style: normal;
+font-weight: 700;
+font-size: 44px;
+line-height: 60px;
     
 }
 h5{
    
    
-    font-size: 15px;
+       
+    font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
     width: 497px;
     height: 66px;
 }
