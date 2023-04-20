@@ -35,7 +35,7 @@ li{
 }
 .intro{
     
-    height: 650px;
+    height: 600px;
     display: flex
     ;
     
@@ -101,7 +101,7 @@ border-radius: 2px;
 }
 .recent{
     display: flex;
-    height: 280px;
+    height: 340px;
     
     align-items: center;
     justify-content: center;
