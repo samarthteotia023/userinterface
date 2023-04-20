@@ -35,7 +35,7 @@ li{
 }
 .intro{
     
-    height: 600px;
+    height: 500px;
     display: flex
     ;
     
@@ -118,7 +118,7 @@ h2{
     margin: 20px;
     padding: 20px;
     width: 498px;
-    height: 185px;
+    height: 235px;
     background-color: white;
 }
 .head{
